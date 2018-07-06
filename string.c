@@ -23,6 +23,7 @@ int main(void)
       
    printf("string lenght of %s = %d\n", s[i], my_strlen(s[i]));
    printf("Edited in het.shah system");
+	printf("EDIted for Conflict CHeck");
 
    return 0;
 }
